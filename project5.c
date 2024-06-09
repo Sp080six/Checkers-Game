@@ -698,6 +698,8 @@
     return 0;
 }
  
+
+
 //This is a user-defined function,created to change the color of the text...
 void setclr(int F)
 {
